@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Modi Flying Game</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:linear-gradient(135deg,#1e3c72,#2a5298);
+color:white;
+}
+
+/* main box */
+
+.container{
+
+text-align:center;
+background:rgba(255,255,255,0.1);
+padding:50px;
+border-radius:20px;
+backdrop-filter:blur(10px);
+box-shadow:0 0 25px rgba(0,0,0,0.4);
+
+}
+
+/* title */
+
+h1{
+font-size:40px;
+margin-bottom:10px;
+}
+
+p{
+opacity:0.8;
+margin-bottom:30px;
+}
+
+/* buttons */
+
+.btn{
+
+display:block;
+margin:10px auto;
+padding:14px 30px;
+width:200px;
+border-radius:10px;
+text-decoration:none;
+font-size:18px;
+color:white;
+transition:0.3s;
+
+}
+
+.login{background:#3498db;}
+.register{background:#27ae60;}
+.play{background:#e67e22;}
+
+.btn:hover{
+
+transform:scale(1.1);
+box-shadow:0 0 15px white;
+
+}
+
+/* credit */
+
+.credit{
+margin-top:20px;
+font-size:14px;
+opacity:0.8;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Modi Flying Game</h1>
+
+<p>Fly Modi Ji and dodge the rivals!</p>
+
+<a class="btn login" href="login.jsp">Login</a>
+
+<a class="btn register" href="register.jsp">Register</a>
+
+<a class="btn play" href="game.jsp">Play Game</a>
+
+<div class="credit">
+Created by Narayan Prasad Maurya
+</div>
+
+</div>
+
+</body>
+
+</html>
