@@ -39,27 +39,27 @@ Built with **Java JSP, Servlet, JavaScript Canvas & MySQL** — a full-stack fun
 > 📌 All screenshots stored in `web/images/` folder in the repository.
 
 ### 🏠 Home Screen — *"Fly Modi Ji and dodge the rivals"*
-![Home](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/home.png)
+![Home](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/homeji.png)
 
 ---
 
 ### 🔐 Login Page
-![Login](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/login.png)
+![Login](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/loginji.png)
 
 ---
 
 ### 📝 Register Page
-![Register](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/register.png)
+![Register](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/registerji.png)
 
 ---
 
 ### 🕹️ Gameplay — Modi Ji is Flying! 🕊️
-![Gameplay](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/playgaem.png)
+![Gameplay](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/playgaemji.png)
 
 ---
 
 ### 💀 Game Over — *"Better luck next time, Modi Ji!"* 😂
-![Game Over](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/gameover.png)
+![Game Over](https://raw.githubusercontent.com/narayan1483/ModiFlyingGame/master/web/images/gameoverji.png)
 
 
 ---
